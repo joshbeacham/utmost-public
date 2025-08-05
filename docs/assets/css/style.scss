@@ -11,9 +11,9 @@ $header-bg-color: #0c071a !default;
 $header-bg-color-secondary: #98c3d9 !default;
 
 // Text
-$section-headings-color: #3500ff !default;
+$section-headings-color: #3500cf !default;
 $body-text-color: #3a4245 !default;
-$body-link-color: #4668ab !default;
+$body-link-color: #0093ff !default;
 $blockquote-text-color: #292631 !default;
 
 // Code
@@ -26,11 +26,12 @@ $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
 
-@import "{{ site.theme }}";
-
 .page-header {
     background-color: #000000AA;
+    background-image: unset;
 }
+
+@import "{{ site.theme }}";
 
 .page-header-image {
     background-image: url("../images/UtmostsIconExpanded2048.png");
