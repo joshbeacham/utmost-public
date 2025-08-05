@@ -1,1 +1,8 @@
-# Utmost App Public Policy
+---
+layout: default
+title: Utmost
+description: Daily Devotional
+---
+
+
+# Privacy Policy

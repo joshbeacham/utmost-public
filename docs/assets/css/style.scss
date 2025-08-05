@@ -1,6 +1,31 @@
 ---
 ---
 
+// Breakpoints
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #0c071a !default;
+$header-bg-color-secondary: #98c3d9 !default;
+
+// Text
+$section-headings-color: #3500ff !default;
+$body-text-color: ##3a4245 !default;
+$body-link-color: #4668ab !default;
+$blockquote-text-color: ##292631 !default;
+
+// Code
+$code-bg-color: #f3f6fa !default;
+$code-text-color: #567482 !default;
+
+// Borders
+$border-color: #dce6f0 !default;
+$table-border-color: #e9ebec !default;
+$hr-border-color: #eff0f1 !default;
+
+
 @import "{{ site.theme }}";
 
 .page-header {
@@ -8,7 +33,17 @@
 }
 
 .page-header-image {
-    background-image: url("assets/images/UtmostsIconExpanded2048.png");    
-    background-size: 1024px;
-    background-size: contain;
+    background-image: url("../images/UtmostsIconExpanded2048.png");
+    background-size: cover;
+    background-position: center;
+}
+
+@import "{{ site.theme }}";
+
+.project-name {
+    text-shadow: 2px 2px 5px black;
+}
+
+.project-tagline {
+    text-shadow: 2px 2px 5px black;
 }
