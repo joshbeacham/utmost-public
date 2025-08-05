@@ -25,13 +25,12 @@ $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
+@import "{{ site.theme }}";
 
 .page-header {
-    background-color: #000000AA;
-    background-image: unset;
+    background-color: #000000AA !important;
+    background-image: unset !important;
 }
-
-@import "{{ site.theme }}";
 
 .page-header-image {
     background-image: url("../images/UtmostsIconExpanded2048.png");
@@ -47,4 +46,29 @@ $hr-border-color: #eff0f1 !default;
 
 .project-tagline {
     text-shadow: 2px 2px 5px black;
+}
+
+.site-footer {
+    background-color: #222222;
+    padding-top: 0px !important;
+}
+
+.site-footer-wrapper {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.site-footer-privacy {
+    color: #999999;
+}
+
+.site-footer-support {
+    color: #999999;
+}
+
+.site-footer-copyright {
+    color: #999999;
 }
