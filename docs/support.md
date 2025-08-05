@@ -16,10 +16,10 @@ Tap on the month/day at the top of a devotional to view the date picker. To go t
 ### How do I customize the devotional text?
 You can change the font family, font size and color on the settings screen.
 
-### Is there a dark mode for low light reading?
-You switch between a light theme and a dark mode theme on the settings screen.
+### Does Utmost have a dark mode for low light reading?
+You switch between a light theme and a dark theme on the settings screen.
 
 
 ## Contact
 
-If you have issues with the app, you can contact us at utmost@joshbeacham.com.
+If you have issues with the app, you can contact us at [utmost @ joshbeacham.com](utmost@joshbeacham.com) 
