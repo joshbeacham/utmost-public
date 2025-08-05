@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-color: #000000AA;
+}
+
+.page-header-image {
+    background-image: url("assets/images/UtmostsIconExpanded2048.png");    
+    background-size: 1024px;
+    background-size: contain;
+}
