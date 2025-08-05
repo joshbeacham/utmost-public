@@ -11,7 +11,7 @@ $header-bg-color: #0c071a !default;
 $header-bg-color-secondary: #98c3d9 !default;
 
 // Text
-$section-headings-color: #3500cf !default;
+$section-headings-color: #5100cf !default;
 $body-text-color: #3a4245 !default;
 $body-link-color: #0093ff !default;
 $blockquote-text-color: #292631 !default;
@@ -48,6 +48,10 @@ $hr-border-color: #eff0f1 !default;
     text-shadow: 2px 2px 5px black;
 }
 
+.main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
 
 .main-content h1 {
     font-size: 2.75em;
