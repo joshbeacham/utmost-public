@@ -159,4 +159,4 @@ This Policy is current as of the Effective Date set forth above. We may change t
 
 If you have questions about data protection or if you have a request to exercise your privacy rights, please contact us through the support features for the related app or service, so we can reply to you more quickly.
 
-You may also contact us via email at utmost-privacy@joshbeacham.com.
+You may also contact us via email at [utmost-privacy@joshbeacham.com](mailto:utmost-privacy@joshbeacham.com).

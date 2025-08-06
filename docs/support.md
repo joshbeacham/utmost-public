@@ -22,4 +22,4 @@ You switch between a light theme and a dark theme on the settings screen.
 
 ## Contact
 
-If you have issues with the app, you can contact us at [utmost @ joshbeacham.com](utmost@joshbeacham.com) 
+If you have issues with the app, you can contact us at [utmost@joshbeacham.com](mailto:utmost@joshbeacham.com)
