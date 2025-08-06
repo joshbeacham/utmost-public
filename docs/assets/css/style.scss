@@ -48,6 +48,10 @@ $hr-border-color: #eff0f1 !default;
     text-shadow: 2px 2px 5px black;
 }
 
+.main-content {
+min-height: 70vh;
+}
+
 .main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {
     margin-top: 1rem;
     margin-bottom: 0.5rem;
@@ -68,7 +72,6 @@ $hr-border-color: #eff0f1 !default;
 .site-footer {
     background-color: #222222;
     padding-top: 0px !important;
-    min-height: 70vh;
 }
 
 .site-footer-wrapper {
